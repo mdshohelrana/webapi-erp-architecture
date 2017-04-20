@@ -1,0 +1,28 @@
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Domain.Services.dll.config
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Domain.Services.dll
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Domain.Services.pdb
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Core.dll
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Domain.dll
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\NHibernate.dll
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\Newtonsoft.Json.dll
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Core.pdb
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\EMS.Domain.pdb
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\NHibernate.xml
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\bin\Debug\Newtonsoft.Json.xml
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\obj\Debug\EMS.Domain.Services.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\obj\Debug\EMS.Domain.Services.dll
+F:\Track Founder Work\Education Management System\EMS.Domain.Services\obj\Debug\EMS.Domain.Services.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Domain.Services.dll.config
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Domain.Services.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Domain.Services.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Core.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Domain.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\NHibernate.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Core.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\EMS.Domain.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\NHibernate.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\obj\Debug\EMS.Domain.Services.csprojResolveAssemblyReference.cache
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\obj\Debug\EMS.Domain.Services.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Domain.Services\obj\Debug\EMS.Domain.Services.pdb

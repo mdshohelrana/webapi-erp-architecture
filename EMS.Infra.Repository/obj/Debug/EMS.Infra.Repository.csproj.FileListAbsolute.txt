@@ -1,0 +1,42 @@
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Infra.Repository.dll.config
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Infra.Repository.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Infra.Repository.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Core.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Domain.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Infra.Data.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\FluentNHibernate.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\Iesi.Collections.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\NHibernate.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Core.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Domain.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\EMS.Infra.Data.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\FluentNHibernate.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\FluentNHibernate.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\Iesi.Collections.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\NHibernate.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\obj\Debug\EMS.Infra.Repository.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\obj\Debug\EMS.Infra.Repository.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Repository\obj\Debug\EMS.Infra.Repository.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Infra.Repository.dll.config
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Infra.Repository.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Infra.Repository.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Core.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Domain.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Infra.Data.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\FluentNHibernate.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\Iesi.Collections.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\NHibernate.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Core.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Domain.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\EMS.Infra.Data.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\FluentNHibernate.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\FluentNHibernate.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\Iesi.Collections.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\NHibernate.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\obj\Debug\EMS.Infra.Repository.csprojResolveAssemblyReference.cache
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\obj\Debug\EMS.Infra.Repository.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Repository\obj\Debug\EMS.Infra.Repository.pdb

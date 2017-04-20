@@ -1,0 +1,41 @@
+F:\Track Founder Work\Edicational Management System\EMS.Application\bin\Debug\EMS.Application.dll
+F:\Track Founder Work\Edicational Management System\EMS.Application\bin\Debug\EMS.Application.pdb
+F:\Track Founder Work\Edicational Management System\EMS.Application\obj\Debug\EMS.Application.dll
+F:\Track Founder Work\Edicational Management System\EMS.Application\obj\Debug\EMS.Application.pdb
+F:\Track Founder Work\Edicational Management System\EMS.Application\obj\Debug\EMS.Application.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Application.dll.config
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Application.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Application.pdb
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\AutoMapper.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Core.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Domain.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Domain.Services.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\NHibernate.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\Newtonsoft.Json.dll
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Core.pdb
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Domain.Services.pdb
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\EMS.Domain.pdb
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\AutoMapper.xml
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\NHibernate.xml
+F:\Track Founder Work\Education Management System\EMS.Application\bin\Debug\Newtonsoft.Json.xml
+F:\Track Founder Work\Education Management System\EMS.Application\obj\Debug\EMS.Application.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Application\obj\Debug\EMS.Application.dll
+F:\Track Founder Work\Education Management System\EMS.Application\obj\Debug\EMS.Application.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Application.dll.config
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Application.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Application.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\AutoMapper.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Core.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Domain.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Domain.Services.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\NHibernate.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Core.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Domain.Services.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\EMS.Domain.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\AutoMapper.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\NHibernate.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\obj\Debug\EMS.Application.csprojResolveAssemblyReference.cache
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\obj\Debug\EMS.Application.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Application\obj\Debug\EMS.Application.pdb

@@ -1,0 +1,30 @@
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Infra.CrossCutting.Automapper.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Infra.CrossCutting.Automapper.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\AutoMapper.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Core.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Domain.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\NHibernate.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\Newtonsoft.Json.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Core.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Domain.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\AutoMapper.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\NHibernate.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\bin\Debug\Newtonsoft.Json.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\obj\Debug\EMS.Infra.CrossCutting.Automapper.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\obj\Debug\EMS.Infra.CrossCutting.Automapper.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.CrossCutting.Automapper\obj\Debug\EMS.Infra.CrossCutting.Automapper.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Infra.CrossCutting.Automapper.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Infra.CrossCutting.Automapper.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\AutoMapper.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Core.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Domain.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\NHibernate.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Core.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\EMS.Domain.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\AutoMapper.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\NHibernate.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\obj\Debug\EMS.Infra.CrossCutting.Automapper.csprojResolveAssemblyReference.cache
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\obj\Debug\EMS.Infra.CrossCutting.Automapper.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.CrossCutting.Automapper\obj\Debug\EMS.Infra.CrossCutting.Automapper.pdb

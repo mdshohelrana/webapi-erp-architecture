@@ -1,0 +1,25 @@
+F:\Track Founder Work\Edicational Management System\EMS.Core\bin\Debug\EMS.Core.dll
+F:\Track Founder Work\Edicational Management System\EMS.Core\bin\Debug\EMS.Core.pdb
+F:\Track Founder Work\Edicational Management System\EMS.Core\obj\Debug\EMS.Core.dll
+F:\Track Founder Work\Edicational Management System\EMS.Core\obj\Debug\EMS.Core.pdb
+F:\Track Founder Work\Edicational Management System\EMS.Core\obj\Debug\EMS.Core.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\EMS.Core.dll.config
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\EMS.Core.dll
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\EMS.Core.pdb
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\Newtonsoft.Json.dll
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\NHibernate.dll
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\Newtonsoft.Json.xml
+F:\Track Founder Work\Education Management System\EMS.Core\bin\Debug\NHibernate.xml
+F:\Track Founder Work\Education Management System\EMS.Core\obj\Debug\EMS.Core.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Core\obj\Debug\EMS.Core.dll
+F:\Track Founder Work\Education Management System\EMS.Core\obj\Debug\EMS.Core.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\EMS.Core.dll.config
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\EMS.Core.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\EMS.Core.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\NHibernate.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\bin\Debug\NHibernate.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\obj\Debug\EMS.Core.csprojResolveAssemblyReference.cache
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\obj\Debug\EMS.Core.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Core\obj\Debug\EMS.Core.pdb

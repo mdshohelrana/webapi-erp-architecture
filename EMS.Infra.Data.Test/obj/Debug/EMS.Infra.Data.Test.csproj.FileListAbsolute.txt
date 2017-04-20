@@ -1,0 +1,14 @@
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\bin\Debug\EMS.Infra.Data.Test.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\bin\Debug\EMS.Infra.Data.Test.pdb
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\bin\Debug\nunit.framework.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\bin\Debug\nunit.framework.xml
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\obj\Debug\EMS.Infra.Data.Test.csprojResolveAssemblyReference.cache
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\obj\Debug\EMS.Infra.Data.Test.dll
+F:\Track Founder Work\Education Management System\EMS.Infra.Data.Test\obj\Debug\EMS.Infra.Data.Test.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\bin\Debug\EMS.Infra.Data.Test.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\bin\Debug\EMS.Infra.Data.Test.pdb
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\bin\Debug\nunit.framework.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\bin\Debug\nunit.framework.xml
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\obj\Debug\EMS.Infra.Data.Test.csprojResolveAssemblyReference.cache
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\obj\Debug\EMS.Infra.Data.Test.dll
+F:\Work\Opensource\Github\webapi-erp-app-architecture\EMS.Infra.Data.Test\obj\Debug\EMS.Infra.Data.Test.pdb
