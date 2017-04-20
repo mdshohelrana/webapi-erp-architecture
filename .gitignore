@@ -1,3 +1,8 @@
 #NuGet
-packages/
 node_modules/
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
