@@ -1,0 +1,7 @@
+2016-10-02 06:01:29.1971|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+

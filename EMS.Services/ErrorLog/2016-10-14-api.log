@@ -1,0 +1,119 @@
+2016-10-14 10:08:48.1746|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:10:22.7971|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:12:11.8253|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:15:17.3549|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:18:42.1846|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:20:24.0784|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:21:20.2057|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:32:07.1897|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 10:33:01.0337|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:41:35.7981|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:42:29.6372|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:45:40.4101|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:53:28.1938|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:56:05.7108|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:57:24.7784|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:58:22.9577|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2016-10-14 11:58:57.8747|INFO|EMS.Infra.CrossCutting.Log.NLogger|JSON
+Method: GET
+URL: http://localhost:7713/api/Employee/GetEmployeeById?id=1
+Controller : EMS.Services.Controllers.Hrm.EmployeeController
+Action : GetEmployeeById
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
