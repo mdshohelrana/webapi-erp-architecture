@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0A5A4CF-BA80-40A4-9058-C248381612B7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EMS.Core</RootNamespace>
+    <AssemblyName>EMS.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.4.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Application\IAppService.cs" />
+    <Compile Include="Application\IReadOnlyAppService.cs" />
+    <Compile Include="Application\ITransactionAppService.cs" />
+    <Compile Include="Application\IWriteOnlyAppService.cs" />
+    <Compile Include="Domain\Entities\BaseDto.cs" />
+    <Compile Include="Domain\Entities\BaseValueObject.cs" />
+    <Compile Include="Domain\Entities\IAggregateRoot.cs" />
+    <Compile Include="Domain\Event\DomainEvents.cs" />
+    <Compile Include="Domain\Event\Handle.cs" />
+    <Compile Include="Domain\Event\IDomainEvent.cs" />
+    <Compile Include="Domain\Repository\IReadOnlyRepository.cs" />
+    <Compile Include="Domain\Repository\IRepository.cs" />
+    <Compile Include="Domain\Service\IReadOnlyService.cs" />
+    <Compile Include="Domain\Service\IWriteOnlyService.cs" />
+    <Compile Include="Domain\Validation\ISelfValidation.cs" />
+    <Compile Include="Domain\Validation\IValidation.cs" />
+    <Compile Include="Domain\Validation\IValidationRule.cs" />
+    <Compile Include="Domain\Validation\Validation.cs" />
+    <Compile Include="Domain\Validation\ValidationError.cs" />
+    <Compile Include="Domain\Validation\ValidationResult.cs" />
+    <Compile Include="Domain\Validation\ValidationRule.cs" />
+    <Compile Include="Helpers\EntityState.cs" />
+    <Compile Include="Domain\Entities\BaseEntity.cs" />
+    <Compile Include="Domain\Entities\IEntity.cs" />
+    <Compile Include="Helpers\EnumDatabase.cs" />
+    <Compile Include="Helpers\EnumHelper.cs" />
+    <Compile Include="Helpers\EnumSchema.cs" />
+    <Compile Include="Helpers\ExtensionMethods.cs" />
+    <Compile Include="Helpers\JSONHelper.cs" />
+    <Compile Include="Helpers\ServiceStatus.cs" />
+    <Compile Include="ErpSetup\VersionInfo.cs" />
+    <Compile Include="Infra\Log\IApiExceptions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Domain\Repository\IWriteOnlyRepository.cs" />
+    <Compile Include="Infra\Data\IUnitOfWork.cs" />
+    <Compile Include="Domain\Service\IService.cs" />
+    <Compile Include="Domain\Specification\And.cs" />
+    <Compile Include="Domain\Specification\IExtensions.cs" />
+    <Compile Include="Domain\Specification\ISpecification.cs" />
+    <Compile Include="Domain\Specification\Negate.cs" />
+    <Compile Include="Domain\Specification\Or.cs" />
+    <Compile Include="Domain\Specification\SpecificationBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Application\Cache\" />
+    <Folder Include="Domain\Resorces\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

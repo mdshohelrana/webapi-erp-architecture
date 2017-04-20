@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+  <session-factory name="Development">
+    <property name="connection.connection_string_name">EMS</property>
+    <property name="show_sql">false</property>
+    <property name="generate_statistics">true</property>
+    <property name="current_session_context_class">thread_static</property>
+    <property name="connection.provider">NHibernate.Connection.DriverConnectionProvider</property>
+    <property name="dialect">NHibernate.Dialect.MsSql2012Dialect</property>
+    <property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</property>
+    <property name="cache.use_second_level_cache">false</property>
+    <property name="cache.use_query_cache">false</property>
+    <property name="default_schema">EMS.dbo</property>
+    <property name="adonet.batch_size">200</property>
+    <mapping assembly="EMS.Infra.Data"/>
+  </session-factory>
+</hibernate-configuration>
