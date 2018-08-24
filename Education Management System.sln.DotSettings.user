@@ -1,5 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A1EAE8678C22482598191A9D64C1F480/@KeyIndexDefined">True</s:Boolean>
-	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A1EAE8678C22482598191A9D64C1F480/GroupingIndex/@EntryValue">4</s:Int64>
-	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A1EAE8678C22482598191A9D64C1F480/Name/@EntryValue">TestClass</s:String>
-	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=A1EAE8678C22482598191A9D64C1F480/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
